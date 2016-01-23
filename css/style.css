@@ -114,6 +114,9 @@ textarea {
 	padding:0;
 	color: #fffefe;
 }
+.ba-menu__item a:hover {
+	color: orange;
+}
 
 /*ba-banner*/
 
